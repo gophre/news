@@ -1,5 +1,356 @@
 [
   {
+    "id": "6db8b96ea302a4cc363ef4f8e3563cbc",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Check if variable contains func() or not",
+    "url": "https://www.reddit.com/r/golang/comments/12is2ex/check_if_variable_contains_func_or_not/",
+    "resume": "",
+    "date": "2023-04-11T18:05:03Z",
+    "vote": 0
+  },
+  {
+    "id": "72d42560fd5389afeb9422188e8aff6a",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Help! Windows services with Kardianos and Fyne",
+    "url": "https://www.reddit.com/r/golang/comments/12irlyr/help_windows_services_with_kardianos_and_fyne/",
+    "resume": "",
+    "date": "2023-04-11T17:50:59Z",
+    "vote": 0
+  },
+  {
+    "id": "6190f28c60fc1e32af6f27490572ee9a",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Live video streaming app",
+    "url": "https://www.reddit.com/r/golang/comments/12ir891/live_video_streaming_app/",
+    "resume": "",
+    "date": "2023-04-11T17:38:05Z",
+    "vote": 0
+  },
+  {
+    "id": "e2e3575090c38bff89a34ff1eec84386",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "How to create a PDF?",
+    "url": "https://www.reddit.com/r/golang/comments/12ipmd8/how_to_create_a_pdf/",
+    "resume": "",
+    "date": "2023-04-11T16:43:25Z",
+    "vote": 0
+  },
+  {
+    "id": "0ff39ecda9c441ae3ad782421a04b981",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Is it possible to write a driver for a custom keyboard on Go?",
+    "url": "https://www.reddit.com/r/golang/comments/12ip3pc/is_it_possible_to_write_a_driver_for_a_custom/",
+    "resume": "",
+    "date": "2023-04-11T16:25:15Z",
+    "vote": 0
+  },
+  {
+    "id": "a894ade9078754795d52b081042e40dc",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Mobile coding?",
+    "url": "https://www.reddit.com/r/golang/comments/12ip0t0/mobile_coding/",
+    "resume": "",
+    "date": "2023-04-11T16:22:14Z",
+    "vote": 0
+  },
+  {
+    "id": "93884b77f6a7954691d0c73260a6fa7d",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Thoughts around checking empty/nil parameters in private functions",
+    "url": "https://www.reddit.com/r/golang/comments/12inf1o/thoughts_around_checking_emptynil_parameters_in/",
+    "resume": "",
+    "date": "2023-04-11T15:28:32Z",
+    "vote": 0
+  },
+  {
+    "id": "213d0544f6d7c5032d5b29a95ebf5464",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Is Go appropriate to develop Linux Desktop app ?",
+    "url": "https://www.reddit.com/r/golang/comments/12indg3/is_go_appropriate_to_develop_linux_desktop_app/",
+    "resume": "",
+    "date": "2023-04-11T15:27:02Z",
+    "vote": 0
+  },
+  {
+    "id": "d4db325816a36aa43c535ed0cba46f8b",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Go server + TypeScript client with end-to-end type safety?",
+    "url": "https://www.reddit.com/r/golang/comments/12imct6/go_server_typescript_client_with_endtoend_type/",
+    "resume": "",
+    "date": "2023-04-11T14:54:35Z",
+    "vote": 0
+  },
+  {
+    "id": "81a5eb6289ddb82c108a78af7b709bb8",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "communicating with a serial interface",
+    "url": "https://www.reddit.com/r/golang/comments/12illts/communicating_with_a_serial_interface/",
+    "resume": "",
+    "date": "2023-04-11T14:30:08Z",
+    "vote": 0
+  },
+  {
+    "id": "fbb8e209fdf29e7aba29b1a50faf2991",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "How can I import a package from a subfolder?",
+    "url": "https://www.reddit.com/r/golang/comments/12ile04/how_can_i_import_a_package_from_a_subfolder/",
+    "resume": "",
+    "date": "2023-04-11T14:22:35Z",
+    "vote": 0
+  },
+  {
+    "id": "801451e1343cdd14a7edc730588e7b71",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Go development for your startup",
+    "url": "https://www.reddit.com/r/golang/comments/12il664/go_development_for_your_startup/",
+    "resume": "",
+    "date": "2023-04-11T14:14:58Z",
+    "vote": 0
+  },
+  {
+    "id": "41f7bbe40e268b29cf398c71e1ba6903",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Cerbos - A stateless, self-hosted authZ layer for your application. Do not reinvent access management, authorization, ABAC, RBAC, user permissions, etc.",
+    "url": "https://www.reddit.com/r/golang/comments/12ikwg5/cerbos_a_stateless_selfhosted_authz_layer_for/",
+    "resume": "",
+    "date": "2023-04-11T14:04:57Z",
+    "vote": 0
+  },
+  {
+    "id": "392bb4b1b7b24caa58885588da715e96",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Can you help me make my makefile for go projects better or suggest an alternative?",
+    "url": "https://www.reddit.com/r/golang/comments/12ikj2l/can_you_help_me_make_my_makefile_for_go_projects/",
+    "resume": "",
+    "date": "2023-04-11T13:51:20Z",
+    "vote": 0
+  },
+  {
+    "id": "6564a2c8636d612acb89171842b81de7",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "[Feedback request] Fuddle service registry",
+    "url": "https://www.reddit.com/r/golang/comments/12ik5on/feedback_request_fuddle_service_registry/",
+    "resume": "",
+    "date": "2023-04-11T13:36:52Z",
+    "vote": 0
+  },
+  {
+    "id": "cc3ca4566c960aca8fc5c91a0ab0cbd0",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Announcing FerretDB 1.0 GA - a truly Open Source MongoDB alternative (written in Go)",
+    "url": "https://www.reddit.com/r/golang/comments/12ijuwe/announcing_ferretdb_10_ga_a_truly_open_source/",
+    "resume": "",
+    "date": "2023-04-11T13:25:57Z",
+    "vote": 0
+  },
+  {
+    "id": "8590a4763254f27120d57c8f351e4102",
+    "source": {
+      "path": "forums",
+      "name": "Golang Bridge",
+      "url": "https://forum.golangbridge.org/posts.rss"
+    },
+    "name": "ZeroLog runtime error",
+    "url": "https://forum.golangbridge.org/t/zerolog-runtime-error/31283#post_1",
+    "resume": " \u003cp\u003eI have a project that using concurrent goroutines and each process log messages\u003cbr\u003e\nI am seeing below random exception, either for\u003cbr\u003e\nlog.Msgf or log event\u003c/p\u003e\n\u003cp\u003epanic: runtime error: index out of range [-1]\u003c/p\u003e\n\u003cp\u003egoroutine 6190 [running]:\u003cbr\u003e\n\u003ca href=\"http://github.com/rs/zerolog/internal/json.Encoder.AppendKey(...)\" class=\"onebox\" target=\"_blank\" rel=\"noopener nofollow ugc\"\u003egithub.com/rs/zerolog/internal/json.Encoder.AppendKey(...)\u003c/a\u003e\u003cbr\u003e\n/vendor/github.com/rs/zerolog/internal/json/base.go:15\u003cbr\u003e\n\u003ca href=\"http://github.com/rs/zerolog.(*Event).Str\" rel=\"noopener nofollow ugc\"\u003egithub.com/rs/zerolog.(*Event).Str\u003c/a\u003e(0xc003e10ba0?, {0x11a06c2?, 0xc000470ee0?}, {0x0?, 0x1e?})\u003cbr\u003e\n/vendor/github.com/rs/zerolog/event.go:247 +0x13d\u003c/p\u003e ",
+    "date": "2023-04-11T13:21:02Z",
+    "vote": 0
+  },
+  {
+    "id": "a7ff2cf10172f2f5ae951b11145e12dc",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "How To Structure Your Go App",
+    "url": "https://www.reddit.com/r/golang/comments/12ijnf5/how_to_structure_your_go_app/",
+    "resume": "",
+    "date": "2023-04-11T13:18:21Z",
+    "vote": 0
+  },
+  {
+    "id": "83bfac9163822a4097969bcebf5aa4c8",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Theine - High performance in-memory cache",
+    "url": "https://www.reddit.com/r/golang/comments/12ijclv/theine_high_performance_inmemory_cache/",
+    "resume": "",
+    "date": "2023-04-11T13:08:12Z",
+    "vote": 0
+  },
+  {
+    "id": "90471db5adbb55cadc69948d8b10835e",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Which Kafka client library should I use?",
+    "url": "https://www.reddit.com/r/golang/comments/12ij4jn/which_kafka_client_library_should_i_use/",
+    "resume": "",
+    "date": "2023-04-11T13:00:44Z",
+    "vote": 0
+  },
+  {
+    "id": "1eb3afa8a54b0dee07034e819de75dc3",
+    "source": {
+      "path": "tools",
+      "name": "GoLand",
+      "url": "https://blog.jetbrains.com/go/feed/"
+    },
+    "name": "Catching Up With Kat Zien on the Structure of Go Apps in 2023",
+    "url": "https://blog.jetbrains.com/go/2023/04/11/catching-up-with-kat-zien-on-the-structure-of-go-apps-in-2023/",
+    "resume": "Let’s say I was asked to build a Go application for a website that hosts raffles. I might end up with a file structure that looks like this: But is this correct? Or is everything I’ve written here completely wrong? This was a common feeling among Go developers back when Kat Zien gave her 2018 [\u0026#8230;]",
+    "date": "2023-04-11T12:46:23Z",
+    "vote": 0
+  },
+  {
+    "id": "bdab5e4c4b218ef39628d4b2ecb12c60",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "How to Stop Testing \u0026 Break Your Code Base",
+    "url": "https://www.reddit.com/r/golang/comments/12ii8v2/how_to_stop_testing_break_your_code_base/",
+    "resume": "",
+    "date": "2023-04-11T12:28:48Z",
+    "vote": 0
+  },
+  {
+    "id": "8f52a3b795545849470e6d652f752c8a",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "Does Go, has something similar to Laravel eloquent (ORM) ?",
+    "url": "https://www.reddit.com/r/golang/comments/12ii73s/does_go_has_something_similar_to_laravel_eloquent/",
+    "resume": "",
+    "date": "2023-04-11T12:26:55Z",
+    "vote": 0
+  },
+  {
+    "id": "4a9489fb5b4617e8da757bc1a5007d0c",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "[Contribution] Go_Updater shellscripting (GNU/Linux or WSL)",
+    "url": "https://www.reddit.com/r/golang/comments/12ii3x3/contribution_go_updater_shellscripting_gnulinux/",
+    "resume": "",
+    "date": "2023-04-11T12:23:23Z",
+    "vote": 0
+  },
+  {
+    "id": "41ab525055ff9567b949b7266bc3db08",
+    "source": {
+      "path": "forums",
+      "name": "Golang Bridge",
+      "url": "https://forum.golangbridge.org/posts.rss"
+    },
+    "name": "Any recommended open source project for beginners?",
+    "url": "https://forum.golangbridge.org/t/any-recommended-open-source-project-for-beginners/31253#post_2",
+    "resume": " \u003cp\u003eExplore GitHub\u003c/p\u003e ",
+    "date": "2023-04-11T10:58:05Z",
+    "vote": 0
+  },
+  {
+    "id": "a2a1ab43eb5d65597766facb33bf52e3",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "K3S Binary, How does that work?",
+    "url": "https://www.reddit.com/r/golang/comments/12if7dj/k3s_binary_how_does_that_work/",
+    "resume": "",
+    "date": "2023-04-11T10:14:21Z",
+    "vote": 0
+  },
+  {
+    "id": "3c62724120522947045c686516d6bb0d",
+    "source": {
+      "path": "forums",
+      "name": "Reddit",
+      "url": "https://www.reddit.com/r/golang.rss"
+    },
+    "name": "AWS Custom resources with Lambda and Golang",
+    "url": "https://www.reddit.com/r/golang/comments/12idhuu/aws_custom_resources_with_lambda_and_golang/",
+    "resume": "",
+    "date": "2023-04-11T08:44:00Z",
+    "vote": 0
+  },
+  {
     "id": "03f1f85a7924b9c83caa19f50f6e50a8",
     "source": {
       "path": "forums",
@@ -62,6 +413,19 @@
     "url": "https://www.reddit.com/r/golang/comments/12i2c1x/workaround_for_pinning_dev_dependencies/",
     "resume": "",
     "date": "2023-04-11T00:33:43Z",
+    "vote": 0
+  },
+  {
+    "id": "1bd311c8e3288c2e8afa47bef8bb0380",
+    "source": {
+      "path": "golang",
+      "name": "Golang Weekly",
+      "url": "https://cprss.s3.amazonaws.com/golangweekly.com.xml"
+    },
+    "name": "The smallest Go binary",
+    "url": "https://golangweekly.com/issues/455",
+    "resume": "\u003ctable border=0 cellpadding=0 cellspacing=0 align=\"center\" border=\"0\"\u003e\n  \u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; \"\u003e\n  \u003cdiv\u003e    \n    \u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\n\u003ctd align=\"left\" style=\"padding-left: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; \"\u003e\u003cp\u003e#​455 — April 11, 2023\u003c/p\u003e\u003c/td\u003e\n\u003ctd align=\"right\" style=\"padding-right: 4px; font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; \"\u003e\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138059/rss\" style=\" color: #0099b4;\"\u003eUnsub\u003c/a\u003e  |  \u003ca href=\"https://golangweekly.com/link/138060/rss\" style=\" color: #0099b4;\"\u003eWeb Version\u003c/a\u003e\u003c/p\u003e\u003c/td\u003e\n\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\u003cp\u003eℹ️ As mentioned last time, \u003cem\u003eGo Weekly\u003c/em\u003e is now sent on \u003cem\u003eTuesdays\u003c/em\u003e, so if you missed us at all, we're now back on schedule 😄\u003cbr\u003e__\u003cbr\u003e\u003cem\u003ePeter Cooper, your editor\u003c/em\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n    \n    \u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 12px;  padding-left: 12px;\"\u003e\u003cp\u003eThe \u003cem\u003eGo Weekly\u003c/em\u003e Newsletter\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; \"\u003e\n  \u003ca href=\"https://golangweekly.com/link/138062/rss\" style=\" color: #0099b4;\"\u003e\u003cimg src=\"https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/cbcxcq04t5uaunonjwap.jpg\" width=\"640\" style=\"    line-height: 100%;       \"\u003e\u003c/a\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138062/rss\" title=\"totallygamerjet.hashnode.dev\" style=\" color: #0099b4;    font-size: 1.1em; line-height: 1.4em;\"\u003eThe Smallest Go Binary - 5KB?\u003c/a\u003e\u003c/span\u003e — I thought this sounded a bit silly at first, especially dated April 1st, but the author (also the main maintainer of \u003ca href=\"https://golangweekly.com/link/138063/rss\" style=\" color: #0099b4;   \"\u003epurego\u003c/a\u003e) had an interesting use case: they wanted to use Go’s \u003cem\u003eassembler\u003c/em\u003e but not Go’s \u003cem\u003eruntime.\u003c/em\u003e Turns out it’s possible, with a lot of fiddling around. \u003cstrong\u003eNote: You will almost certainly never need to do this yourself, but it's fun to see the parts involved in doing so.\u003c/strong\u003e\u003c/p\u003e\n  \u003cp\u003eOver Engineered \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138064/rss\" title=\"go.dev\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eDeveloping a RESTful API with Go and Gin\u003c/a\u003e\u003c/span\u003e — It’s neat to see a tutorial like this pop up on the official Go site. It walks through the basics of using \u003ca href=\"https://golangweekly.com/link/138065/rss\" style=\" color: #0099b4;   \"\u003eGin\u003c/a\u003e to create a simple RESTful API that stores its data in memory for simplicity.\u003c/p\u003e\n  \u003cp\u003eOfficial Go Docs \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \u003ca href=\"https://golangweekly.com/link/138061/rss\" style=\" color: #0099b4;   \"\u003e\u003cimg src=\"https://copm.s3.amazonaws.com/a7a0c665.png\" width=\"110\" height=\"110\" style=\"padding-top: 12px; padding-left: 12px;     line-height: 100%;    \"\u003e\u003c/a\u003e\n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138061/rss\" title=\"goteleport.com\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eWhat's Next in Kubernetes Access?\u003c/a\u003e\u003c/span\u003e — Manage and audit access to all Kubernetes infrastructure - databases, clusters, and more - using biometrics rather than shared tokens and gain visibility on all actions in a K8s pod with full session recordings, all with a free trial of Teleport.\u003c/p\u003e\n  \u003cp\u003eTeleport | goteleport.com \u003cspan style=\"text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #885 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            \"\u003esponsor\u003c/span\u003e\u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138066/rss\" title=\"blog.ferretdb.io\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eFerretDB 1.0: An Open Source MongoDB Alternative\u003c/a\u003e\u003c/span\u003e — FerretDB is an interesting project we’ve been following over the past year. Built in Go, it converts MongoDB’s wire protocol queries into SQL with Postgres on the backend, so you can reproduce the MongoDB experience but without its \u003ca href=\"https://golangweekly.com/link/138067/rss\" style=\" color: #0099b4;   \"\u003econtroversial license change.\u003c/a\u003e\u003c/p\u003e\n  \u003cp\u003ePeter Farkas \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138068/rss\" title=\"www.jetbrains.com\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eWhat's New in GoLand 2023.1\u003c/a\u003e\u003c/span\u003e — GoLand is a popular (though commercial) IDE in the Go space, often coming in second only to VS Code, so it’s interesting to see what they’ve added. The latest version introduces a vulnerability checker and vulnerable package updater, improved gRPC tooling, and the ability to run ‘scratch’ files with non-standard-library packages.\u003c/p\u003e\n  \u003cp\u003eJetBrains \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eIN BRIEF:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138099/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003eGo 1.20.3 and Go 1.19.8\u003c/a\u003e have been released.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138069/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003eGo 1.21 is likely to have a static toolchain\u003c/a\u003e on Linux, rather than dynamically linking against glibc.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eOver on Reddit, \u003ca href=\"https://golangweekly.com/link/138070/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003ea Go developer noticed\u003c/a\u003e their Go code was running 2-3x slower than a JavaScript equivalent. People shared various optimizations with replacing all \u003ccode\u003eint\u003c/code\u003es with \u003ccode\u003euint32\u003c/code\u003e yielding the biggest improvement.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003eNo code, but it was interesting reading about \u003ca href=\"https://golangweekly.com/link/138071/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003ehow Julia Evans approached building a zine feedback site\u003c/a\u003e with Go, SQLite and Vue.js.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; \"\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138072/rss\" title=\"lobste.rs\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eHow Do You Name Your Go Variables\u003c/a\u003e\u003c/span\u003e — While this is a simple question on the surface, it often generates a ton of very strong opinions and lively discussion, as it did with the Lobsters community.\u003c/p\u003e\n  \u003cp\u003eLobsters \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138073/rss\" title=\"www.courier.com\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eSend Transactional Emails with Golang\u003c/a\u003e\u003c/span\u003e — Step-by-step guide with three different methods: SMTP, 3rd party email provider, and with notification infrastructure.\u003c/p\u003e\n  \u003cp\u003eCourier.com \u003cspan style=\"text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #885 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            \"\u003esponsor\u003c/span\u003e\u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138074/rss\" title=\"betterprogramming.pub\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eHow to Secure a Go App with JWT\u003c/a\u003e\u003c/span\u003e — Authentication and authorization with middleware while staying stateless with REST.\u003c/p\u003e\n  \u003cp\u003eDilara Görüm \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0; padding-right: 0;  padding-left: 0;\"\u003e\u003cp\u003e🛠 Code \u0026amp; Tools\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; \"\u003e\n  \u003ca href=\"https://golangweekly.com/link/138075/rss\" style=\" color: #0099b4;\"\u003e\u003cimg src=\"https://res.cloudinary.com/cpress/image/upload/w_1280,e_sharpen:60,q_auto/menyu9osev5z6g5cfdjf.jpg\" width=\"640\" style=\"    line-height: 100%;         \"\u003e\u003c/a\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138075/rss\" title=\"xuri.me\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eExcelize: Library for Working with Excel Spreadsheets\u003c/a\u003e\u003c/span\u003e — Read and write XLAM / XLSM / XLSX / XLTM / and XLTX files. A long time library that keeps going from strength to strength. \u003ca href=\"https://golangweekly.com/link/138076/rss\" style=\" color: #0099b4;   \"\u003eGitHub repo.\u003c/a\u003e\u003c/p\u003e\n  \u003cp\u003eQI-ANXIN GROUP \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138077/rss\" title=\"carlosbecker.com\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eGoReleaser v1.17: Go Binary Build and Delivery Tool\u003c/a\u003e\u003c/span\u003e — The motivation for GoReleaser is to simplify the release process by building binaries for multiple platforms, creating a GitHub release, and even releasing a Homebrew formula. \u003ca href=\"https://golangweekly.com/link/138078/rss\" style=\" color: #0099b4;   \"\u003eGitHub repo.\u003c/a\u003e\u003c/p\u003e\n  \u003cp\u003eCarlos Alexandro Becker \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138079/rss\" title=\"www.topaz.sh\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eAuthorization Simplified with an Open-Source Authorizer Written in Go\u003c/a\u003e\u003c/span\u003e — Topaz is a Go native authorization service with built-in support for every authorization model: RBAC, ABAC, and ReBAC.\u003c/p\u003e\n  \u003cp\u003eAserto \u003cspan style=\"text-transform: uppercase; margin-left: 4px; font-size: 0.9em;   color: #885 !important; padding-top: 1px; padding-right: 4px;  padding-left: 4px;            \"\u003esponsor\u003c/span\u003e\u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138080/rss\" title=\"github.com\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003eTokenizer: Pure Go Implementation of OpenAI's Tokenizer\u003c/a\u003e\u003c/span\u003e — When you use OpenAI’s GPT, input and output is delivered in ‘tokens’ which are \u003cem\u003enot\u003c/em\u003e the same as characters, syllables or words, but somewhere in between. \u003cspan\u003eT\u003c/span\u003e\u003cspan\u003eruly\u003c/span\u003e\u003cspan\u003e mind\u003c/span\u003e\u003cspan\u003eb\u003c/span\u003e\u003cspan\u003eogg\u003c/span\u003e\u003cspan\u003eling\u003c/span\u003e\u003cspan\u003e.\u003c/span\u003e\u003c/p\u003e\n  \u003cp\u003eWahlmann and Wendt \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.2em !important; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138081/rss\" title=\"github.com\" style=\" color: #0099b4;    font-size: 1.05em;\"\u003ebearclaw: A Tiny Static Site Generator\u003c/a\u003e\u003c/span\u003e — \u003cem\u003e“makes converting markdown into websites easy.”\u003c/em\u003e Offers an RSS feed too. Possibly worth considering if you want something even simpler than \u003ca href=\"https://golangweekly.com/link/138082/rss\" style=\" color: #0099b4;   \"\u003eHugo.\u003c/a\u003e\u003c/p\u003e\n  \u003cp\u003ebearclaw \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n\u003cp\u003e\u003cstrong\u003eQUICK RELEASES:\u003c/strong\u003e\u003c/p\u003e\n\u003cul\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138083/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003eenv 8.0\u003c/a\u003e\u003cbr\u003e\n↳ Parse environment variables into structs.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138084/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003eGo OpenAI 1.7\u003c/a\u003e\u003cbr\u003e\n↳ OpenAI / ChatGPT client library.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138085/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003eGoToSocial 0.8\u003c/a\u003e\u003cbr\u003e\n↳ ActivityPub server powered by Go.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138086/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003eVHS 0.4\u003c/a\u003e – Record GIFs of terminal actions.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138087/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003ews 1.2\u003c/a\u003e – Tiny WebSocket library.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138088/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003egofumpt 0.5\u003c/a\u003e – A stricter \u003ccode\u003egofmt\u003c/code\u003e.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138089/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003eSFTPGo 2.4.5\u003c/a\u003e – Full featured SFTP server.\u003c/p\u003e\n\u003c/li\u003e\n\u003cli\u003e\n\u003cp\u003e\u003ca href=\"https://golangweekly.com/link/138090/rss\" style=\" color: #0099b4; font-weight: 600;   \"\u003etdl 0.8\u003c/a\u003e – Telegram file downloader.\u003c/p\u003e\n\u003c/li\u003e\n\u003c/ul\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 0px;  padding-left: 0px;\"\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\u003cp\u003eJobs\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.0em; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138091/rss\" style=\" color: #0099b4; font-size: 1.0em !important; font-weight: 500;   \"\u003eFind a Job Through Hired\u003c/a\u003e\u003c/span\u003e — Hired makes job hunting easy-instead of chasing recruiters, companies approach you with salary details up front. Create a free profile now.\n  \u003cbr\u003e\u003cspan style=\"color: #5a5a5a; margin-top: 4px; text-transform: uppercase; font-size: 12px; line-height: 1.3em;\"\u003eHired\u003c/span\u003e \n  \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\u003cp\u003e🧑‍💻 Got a job listing to share? \u003cem\u003e\u003ca href=\"https://golangweekly.com/link/138092/rss\" style=\" color: #0099b4; font-weight: 600;\"\u003eHere's how\u003c/a\u003e\u003c/em\u003e.\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; \"\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; \"\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\u003cp\u003e🕰    ICYMI \u003cspan style=\"text-transform: none; font-weight: 400;\"\u003e(\u003cem\u003eSome older stuff we might have missed\u003c/em\u003e)\u003c/span\u003e\u003c/p\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.0em; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138093/rss\" style=\" color: #0099b4; font-size: 1.0em !important; font-weight: 500;   \"\u003eGitHub Actions and Go\u003c/a\u003e\u003c/span\u003e — A CI workflow for Go you can reuse and tailor to your own needs. See the \u003ca href=\"https://golangweekly.com/link/138094/rss\" style=\" color: #0099b4; font-size: 1.0em !important; font-weight: 500;   \"\u003efinal \u003ccode\u003ebuild.yml\u003c/code\u003e.\u003c/a\u003e\n  \u003cbr\u003e\u003cspan style=\"color: #5a5a5a; margin-top: 4px; text-transform: uppercase; font-size: 12px; line-height: 1.3em;\"\u003eOleg Kovalov\u003c/span\u003e \n  \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.0em; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138095/rss\" style=\" color: #0099b4; font-size: 1.0em !important; font-weight: 500;   \"\u003eComprehensive Guide to Testing in Go\u003c/a\u003e\u003c/span\u003e — Covers things like table-driven tests, fuzzing, and parallel tests.\n  \u003cbr\u003e\u003cspan style=\"color: #5a5a5a; margin-top: 4px; text-transform: uppercase; font-size: 12px; line-height: 1.3em;\"\u003eAlexandre Couëdelo\u003c/span\u003e \n  \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.0em; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138096/rss\" style=\" color: #0099b4; font-size: 1.0em !important; font-weight: 500;   \"\u003eEfficiently Writing Binary Data\u003c/a\u003e\u003c/span\u003e — \u003cem\u003e..or speeding up writing binary data in Go by 14x.\u003c/em\u003e Serializing data structures is a common need, but in some cases you may need a more efficient option than \u003ccode\u003ebinary.Write\u003c/code\u003e.\n  \u003cbr\u003e\u003cspan style=\"color: #5a5a5a; margin-top: 4px; text-transform: uppercase; font-size: 12px; line-height: 1.3em;\"\u003eJavier Honduvilla Coto\u003c/span\u003e \n  \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\"font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em;  padding-top: 0px; padding-right: 15px;  padding-left: 15px;\"\u003e\n  \u003cp\u003e\u003cspan style=\"font-weight: 600; font-size: 1.0em; color: #000;\"\u003e\u003ca href=\"https://golangweekly.com/link/138097/rss\" style=\" color: #0099b4; font-size: 1.0em !important; font-weight: 500;   \"\u003eSpeeding Up a CLI App with Concurrency\u003c/a\u003e\u003c/span\u003e\n  \u003cbr\u003e\u003cspan style=\"color: #5a5a5a; margin-top: 4px; text-transform: uppercase; font-size: 12px; line-height: 1.3em;\"\u003eMichael Cuffaro\u003c/span\u003e \n  \u003c/p\u003e\n\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003ctable border=0 cellpadding=0 cellspacing=0 border=0 cellpadding=0 cellspacing=0\u003e\u003ctr\u003e\u003ctd style=\" font-family: -apple-system,BlinkMacSystemFont,Helvetica,sans-serif; font-size: 15px; line-height: 1.48em; \"\u003e\u003c/td\u003e\u003c/tr\u003e\u003c/table\u003e\n\u003c/div\u003e\n  \u003c/td\u003e\u003c/tr\u003e\n\u003c/table\u003e\n\n\n\n\n\u003cimg src=\"https://golangweekly.com/open/455/rss\" width=\"1\" height=\"1\" /\u003e",
+    "date": "2023-04-11T00:00:00Z",
     "vote": 0
   },
   {
