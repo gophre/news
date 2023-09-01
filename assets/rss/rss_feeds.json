@@ -91,11 +91,6 @@
 	},
 	{
 		"path": "blogs",
-		"name": "All Things Tech",
-		"url": "https://mariadesouza.com/feed/"
-	},
-	{
-		"path": "blogs",
 		"name": "SDET",
 		"url": "https://sdet.us/feed/"
 	}
