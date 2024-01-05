@@ -16,7 +16,7 @@ service gophre stop
 service gophre start
 
 message="$1"
-if [[ $# -eq 0 ]]
+if [[ $# -eq "" ]]
 then
 	echo "Done."
 else
