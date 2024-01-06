@@ -65,14 +65,9 @@
 		"url": "https://gosamples.dev/index.xml"
 	},
 	{
-		"path": "blogs",
-		"name": "Golang Code",
-		"url": "https://golangcode.com/index.xml"
-	},
-	{
 		"path": "courses",
 		"name": "Golang Bot",
-		"url": "https://golangbot.com/rss/"
+		"url": "https://golangbot.com/index.xml"
 	},
 	{
 		"path": "blogs",
